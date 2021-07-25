@@ -1,0 +1,1 @@
+This is a php program that uploads an image file to a folder (upload) in a user's computer.
