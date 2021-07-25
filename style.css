@@ -1,0 +1,29 @@
+
+input{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+form{
+    margin: 10% auto;
+    width: 18%;
+}
+
+.center_align_error{
+    text-align: center;
+    color: red;
+}
+
+.center_align_success{
+    text-align: center;
+    color: green;
+}
+
+section{
+    width: 80%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
